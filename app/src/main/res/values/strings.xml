@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Дархан цонх</string>
+
+    <string name="title_activity_main">Нүүр</string>
+    <string name="success_saved">Амжилттай хадгалагдлаа</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="facebook_app_id">1635949119999451</string>
+    <string name="google_app_id">1635949119999451</string>
+    <string name="action_settings">Settings</string>
+    <string name="no_net">Интернет холболт байхгүй байна</string>
+    <string name="loading">Уншиж байна ...</string>
+    <string name="user_not_found">Хэрэглэгч олдсонгүй </string>
+    <string name="password_mismatch">Нэвтрэх нэр нууц үг буруу байна</string>
+    <string name="main_ip">http://192.168.1.2/window/mobile/services/</string>
+    <string name="email">Email хаяг</string>
+    <string name="map">Газрын зураг</string>
+    <string name="username">Нэвтрэх нэр</string>
+    <string name="no_data">Өгөгдөл олдсонгүй</string>
+    <string name="password">Нууц үг</string>
+    <string name="action_sign_in_short">Нэвтрэх</string>
+    <string name="error_request">Алдаа гарлаа</string>
+    <string name="forget_password">Нууц үгээ мартсан</string>
+    <string name="create_ac">Бүртгүүлэх</string>
+    <string name="click_to_login">Энд дарж нэвтэрч орно уу</string>
+
+    <string name="or_sign_in">Эсвэл</string>
+    <string name="list">Листээр харах</string>
+    <string name="error_login_social">Нэвтрэхэд алдаа гарлаа</string>
+    <string name="error_invalid_email">Зөв email оруулна уу</string>
+    <string name="fill_the_fields"></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_place_detail">PlaceDetail</string>
+
+    <string name="title_activity_maps">Map</string>
+    <string name="skip">АЛГАС</string>
+    <string name="next">ЦААШ</string>
+    <string-array name="walk_title">
+        <item>ХҮССЭН ЦЭГЭЭ ХАЙ</item>
+        <item>БУСАДТАЙ ХУВААЛЦ</item>
+        <item>ҮНЭЛГЭЭ</item>
+        <item>ЭВЕНТ</item>
+        <item>БУСАДТАЙ ХУВААЛЦ</item>
+    </string-array>
+    <string-array name="walk_desc">
+        <item>БИД ТАНЫ ХАЙЛТЫН ДАГУУ ТАНД ХАМГИЙН ОЙР ЦЭГИЙГ\nОЛЖ ӨГӨХ БОЛНО</item>
+        <item>ТА НАЙЗУУДТАЙГАА УУЛЗАХ ЦЭГЭЭ ХАЙСНЫ ДАРАА\nФЕЙСБҮҮК, ТВИТТЕРЭЭР БУСАДТАЙГАА ХУВААЛЦАЖ,\nБАЙРШЛИЙГ НЬ ХАРУУЛАХ БОЛОМЖТОЙ</item>
+        <item>ТА ЯМАРВАА НЭГЭН ГАЗРЫН ТАЛААР БУСДЫН СЭТГЭГДЭЛ,\nҮНЭЛГЭЭГ ҮЗЭХ БОЛОМЖТОЙ БӨГӨӨД ӨӨРИЙН ҮНЭЛГЭЭГ\nМӨН ӨГӨХ БОЛОМЖТОЙ</item>
+        <item>ТАНЫ ОЙР ОРЧИМ БОЛЖ БУЙ БҮХИЙ Л ЭВЕНТ,\nҮЙЛ АЖИЛЛАГААНУУДЫН МЭДЭЭЛЛИЙГ ТАНД ХҮРГЭЖ БАЙНА</item>
+        <item>ТАНЫ ОЙР ОРЧИМ БОЛЖ БУЙ БҮХИЙ Л ЭВЕНТ,\nҮЙЛ АЖИЛЛАГААНУУДЫН МЭДЭЭЛЛИЙГ ТАНД ХҮРГЭЖ БАЙНА</item>
+    </string-array>
+</resources>
